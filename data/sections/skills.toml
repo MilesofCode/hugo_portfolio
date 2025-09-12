@@ -1,0 +1,29 @@
+[[skill]]
+  title = "Python"
+  text  = "Primary language for data workflows, machine learning, and edge device integration. Experienced in building robust pipelines and production-ready applications."
+  icon  = "bxl-python"
+
+[[skill]]
+  title = "Machine Learning"
+  text  = "Hands-on with scikit-learn and PyTorch to build, train, and optimize models for predictive maintenance, defect detection, and safety monitoring."
+  icon  = "bx-brain"
+
+[[skill]]
+  title = "IoT & Edge"
+  text  = "Designing ML solutions for constrained devices and sensor networks. Focused on real-time intelligence at the edge for industrial use cases."
+  icon  = "bx-chip"
+
+[[skill]]
+  title = "Cloud Architecture"
+  text  = "Experienced in AWS solutions from serverless to IoT pipelines. Skilled in designing scalable, secure, and cost-optimized architectures for ML workloads."
+  icon  = "bx-cloud"
+
+[[skill]]
+  title = "MLOps"
+  text  = "Implementing CI/CD, Docker, and infrastructure automation to streamline deployment and monitoring of ML models in production environments."
+  icon  = "bx-cog"
+
+[[skill]]
+  title = "Data & Analytics"
+  text  = "Working with big data pipelines and analytics platforms to extract insights, enable decision-making, and feed ML systems with high-quality data."
+  icon  = "bx-data"
