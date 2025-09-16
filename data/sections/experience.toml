@@ -1,0 +1,24 @@
+[[company]]
+  name = "Amazon Web Services"
+  role = "Manufacturing Solutions Architect"
+  date = "Jan. 2023 - Present"
+  text = [
+    "Design cloud and edge architectures that help manufacturing customers modernize operations with AI/ML and IoT.",
+    ]
+
+[[company]]
+  name = "Hewlett Packard Inc."
+  role = "Software Development Intern"
+  date = "Jun. 2022 – Aug. 2022"
+  text = [
+    "Built enterprise microservices in Java using Spring Boot and collaborated with distributed development teams.",
+  ]
+
+[[company]]
+  name = "Texas Southern University"
+  role = "ML/Cybersecurity Research Assistant"
+  date = "Oct. 2021 – Jun. 2022"
+  text = [
+    "Applied ML algorithms such as logistic regression to classify malware datasets and reduce compute costs through feature selection.",
+    "Documented and presented findings following IEEE standards while supporting academic research in cybersecurity."
+  ]
