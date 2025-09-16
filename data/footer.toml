@@ -1,0 +1,17 @@
+copyright = "© 2023-2025 Miles Jordan. All rights reserved."
+
+[[social]]
+  type = "linkedin"
+  id   = "miles-j-9558a311a"
+  url  = "https://www.linkedin.com/in/miles-j-9558a311a/"
+  icon = "bxl-linkedin"
+  name = "LinkedIn"
+
+[[social]]
+  type = "github"
+  id   = "milesofcode"
+  url  = "https://github.com/MilesofCode"
+  icon = "bxl-github"
+  name = "GitHub"
+
+

@@ -4,3 +4,5 @@ title = 'Miles of Codes'
 [module]
 [[module.imports]]
 path = "github.com/hugo-porto/theme"
+[params]
+  showThemeToggle = true

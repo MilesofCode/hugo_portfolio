@@ -1,11 +1,11 @@
-title1 = "Engineer"
+title1 = "ENGINEER"
 text1  = "Applying machine learning theory to design and deploy end-to-end systems that run reliably at the edge."
 
 title2 = "ARCHITECT"
 text2  = "Miles Jordan"
-avatar = "https://picsum.photos/300"
+avatar = "img/avatar.png"
 
-title3 = "Innovator"
-text3  = "Using data-driven insights to improve operations, enhance safety, and refine products in manufacturing."
+title3 = "INNOVATOR"
+text3  = "Using data-driven insights to improve operations, enhance safety, and ensure product quality."
 
-description = "I’m Miles Jordan, a Solutions Architect at AWS with expertise in cloud systems, IoT, and applied machine learning. I design and deploy production-ready ML workloads at the edge, enabling predictive maintenance, safety monitoring, and defect detection in manufacturing. With experience in Python, AWS, and edge computing, I build scalable ML systems that deliver measurable business value."
+description = "I’m Miles Jordan, a Solutions Architect at AWS with expertise in IoT, cloud, and applied machine learning. I design and deploy optimized, scalable ML systems at the edge to enable predictive maintenance, safety monitoring, and defect detection in manufacturing."

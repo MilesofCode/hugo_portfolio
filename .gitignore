@@ -1,0 +1,24 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_cache/
+/.hugo_build.lock
+
+# Hugo module cache
+/vendor/
+/_vendor/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Node (only if you’re using PostCSS, Tailwind, or other JS tooling)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp

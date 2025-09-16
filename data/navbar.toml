@@ -1,0 +1,27 @@
+title    = "Miles of Code"
+logo     = "img/favicon-32x32.png"
+logoLink = "/"
+
+[[menu]]
+  text        = "Home"
+  description = "Welcome to my personal website"
+  link        = "/"
+  target      = "_self"
+
+[[menu]]
+  text        = "Posts"
+  description = "Read my latest posts"
+  link        = "/posts"
+  target      = "_self"
+
+[[menu]]
+  text        = "Tags"
+  description = "Browse tags"
+  link        = "/tags"
+  target      = "_self"
+
+[button]
+  enabled = true
+  text    = "Get my CV"
+  link    = "files/MilesJordanResume2024.pdf"
+  target  = "_blank"
